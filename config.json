@@ -76,10 +76,12 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
-  },
+    },
     "souavzy": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "AV资源"
     }
   }
+  }
+
+
