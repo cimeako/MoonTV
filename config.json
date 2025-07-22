@@ -77,5 +77,13 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     }
-  }
+  },
+  "categories": [
+    { "name": "電影", "key": "movie" },
+    { "name": "劇集", "key": "tv" },
+    { "name": "動漫", "key": "anime" },
+    { "name": "綜藝", "key": "show" },
+    { "name": "音樂", "key": "music" },
+    { "name": "紀錄片", "key": "doc" }
+  ]
 }
